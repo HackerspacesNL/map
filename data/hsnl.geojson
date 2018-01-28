@@ -1,0 +1,278 @@
+{
+	"type": {
+		"HS_MSG": "Last update on : January 28 2018 19:20:10. | "
+	},
+	"features": [{
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.1690324, 51.3708052]
+		},
+		"properties": {
+			"marker-symbol": "hs",
+			"name": "TDVenlo",
+			"url": "http://tdvenlo.nl/",
+			"address": "Grote Kerkstraat 31",
+			"zip": "5911 GC Venlo",
+			"city": "",
+			"email": "",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.4745668, 51.434641]
+		},
+		"properties": {
+			"marker-symbol": "hs",
+			"name": "Madspace",
+			"url": "http://madspace.nl",
+			"address": "Don Boscostraat 4",
+			"zip": "5611 KW Eindhoven",
+			"city": "",
+			"email": "",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.8472873, 51.8518103]
+		},
+		"properties": {
+			"marker-symbol": "hs",
+			"name": "Hackerspace Nijmegen",
+			"url": "http://hackerspacenijmegen.nl",
+			"address": "Waalbandijk 16",
+			"zip": "6541 AJ, Nijmegen",
+			"city": "",
+			"email": "",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.130623, 52.091846]
+		},
+		"properties": {
+			"marker-symbol": "hs",
+			"name": "RandomData",
+			"url": "http://randomdata.nl/",
+			"address": "Parkstraat 40",
+			"zip": "3581 PL Utrecht",
+			"city": "",
+			"email": "",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.0896818, 52.5112671]
+		},
+		"properties": {
+			"marker-symbol": "hs",
+			"name": "Bhack",
+			"url": "http://bhack.nl",
+			"address": "Sassenstraat 26",
+			"zip": "8011 PC Zwolle",
+			"city": "",
+			"email": "",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.9712601, 50.8924622]
+		},
+		"properties": {
+			"marker-symbol": "hs-closed",
+			"name": "ACKspace",
+			"url": "https://ackspace.nl/",
+			"address": "Kloosterweg 1",
+			"zip": " 6412 CN Heerlen",
+			"city": "",
+			"email": "contact@ackspace.nl",
+			"phone": 31457112345,
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.414782, 52.177323]
+		},
+		"properties": {
+			"marker-symbol": "hs-open",
+			"name": "Bitlair",
+			"url": "https://bitlair.nl/",
+			"address": "Computerweg 20A",
+			"zip": " 3821 AB Amersfoort",
+			"city": "",
+			"email": "info@bitlair.nl",
+			"phone": 31337114666,
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.8005792, 53.1997015]
+		},
+		"properties": {
+			"marker-symbol": "hs-closed",
+			"name": "Frack",
+			"url": "https://frack.nl",
+			"address": "Blokhuisplein 40",
+			"zip": " 8911 LJ",
+			"city": " Leeuwarden",
+			"email": "info@frack.nl",
+			"phone": 31681563934,
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.9026, 52.03746]
+		},
+		"properties": {
+			"marker-symbol": "hs-open",
+			"name": "Hack42",
+			"url": "https://hack42.nl/",
+			"address": "Koningsweg 31a",
+			"zip": " 6816TG Arnhem",
+			"city": " Nederland",
+			"email": "info@hack42.nl",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.85423, 52.35406]
+		},
+		"properties": {
+			"marker-symbol": "hs-closed",
+			"name": "LAG",
+			"url": "http://laglab.org",
+			"address": "Eerste Schinkelstraat 16",
+			"zip": " 1075 TX Amsterdam",
+			"city": "",
+			"email": "info@laglab.org",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.433988, 51.910111]
+		},
+		"properties": {
+			"marker-symbol": "hs-closed",
+			"name": "Pixelbar",
+			"url": "https://pixelbar.nl",
+			"address": "Vierhavensstraat 56",
+			"zip": " 3029BG Rotterdam",
+			"city": "",
+			"email": "bestuur@pixelbar.nl",
+			"phone": "+31 (0) 107171591",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.669681, 51.97]
+		},
+		"properties": {
+			"marker-symbol": "hs-open",
+			"name": "NURDSpace",
+			"url": "http://nurdspace.nl/",
+			"address": "Vergersweg 22-24",
+			"zip": " 6707 HT Wageningen",
+			"city": "",
+			"email": "",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.872435, 52.222388]
+		},
+		"properties": {
+			"marker-symbol": "hs-open",
+			"name": "TkkrLab",
+			"url": "https://tkkrlab.nl",
+			"address": "Rigtersbleek-Zandvoort 10",
+			"zip": " 7521 BE Enschede",
+			"city": "",
+			"email": "bestuur@tkkrlab.nl",
+			"phone": 31610745590,
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.826466, 52.345558]
+		},
+		"properties": {
+			"marker-symbol": "hs-open",
+			"name": "Technologia Incognita",
+			"url": "http://www.techinc.nl",
+			"address": "Louwesweg 1B",
+			"zip": " 1066 EA Amsterdam",
+			"city": "",
+			"email": "hack AT techinc DOT nl",
+			"phone": "",
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.3901992, 52.0777306]
+		},
+		"properties": {
+			"marker-symbol": "hs-open",
+			"name": "RevSpace",
+			"url": "https://revspace.nl/",
+			"address": "Overgoo 1",
+			"zip": " 2266 JZ Leidschendam",
+			"city": "",
+			"email": "board@revspace.nl",
+			"phone": 31632278700,
+			"description": ""
+		}
+	}, {
+		"type": "Feature",
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.567441, 53.20972]
+		},
+		"properties": {
+			"marker-symbol": "hs-open",
+			"name": "Maakplek",
+			"url": "http://www.maakplek.nl",
+			"address": "Maakplek",
+			"zip": " Achterweg 1",
+			"city": " 9725 BM",
+			"email": "welkom@maakplek.nl",
+			"phone": "",
+			"description": ""
+		}
+	}]
+}
